@@ -13,3 +13,6 @@
 ### :fire: My Stats :
 <p><img src="https://github-readme-stats.vercel.app/api?username=kaleab-kali&amp;show_icons=true" alt="GitHub Stats"></p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
