@@ -11,8 +11,8 @@
 </ul>
 
 ### :fire: My Stats :
-<p><img src="https://github-readme-stats.vercel.app/api?username=kaleab-kali&amp;show_icons=true" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleab-kali&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="kaleabs Top Languages" width="395"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=kaleab-kali&amp&theme=github_dark;show_icons=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleab-kali&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="kaleabs Top Languages" align="right" width="395"></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
