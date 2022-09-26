@@ -1,7 +1,5 @@
 <div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-<!--  <img src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP"/> -->
-  ![](https://github.com/kaleab-kali/kaleab-kali/blob/main/giphy.gif)
+  <img src="giphy.gif" width="250" height="250"/>
 </div>
 ### Hi there 👋
 <ul>
