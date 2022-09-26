@@ -16,3 +16,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C920%20hrs%2048%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-963-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
