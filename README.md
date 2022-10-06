@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="giphy.gif" width="250" height="250"/>
 </div>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=kaleab-kali&color=green"/>
+</p>
 ### Hi there 👋
 <ul>
   <li>🔭 I’m currently working on healthcare APP </li>
@@ -17,9 +20,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaleab-kali&color=green"/>
-</p>
+
 
 
 
