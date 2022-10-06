@@ -17,6 +17,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=kaleab-kali&amp;show_icons=true&theme=github_dark" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleab-kali&layout=compact&card_width=275&theme=github_dark&langs_count=20" alt="kaleabs Top Languages" align="right" width="295"></p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
