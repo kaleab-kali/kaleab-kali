@@ -2,7 +2,7 @@
   <img src="giphy.gif" width="250" height="250"/>
 </div>
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kaleab-kali&color=green"/>
+  <img src="https://komarev.com/ghpvc/?username=kaleab-kali&color=blue"/>
 </p>
 ### Hi there 👋
 <ul>
