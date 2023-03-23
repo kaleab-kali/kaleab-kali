@@ -26,15 +26,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="ardino" alt="arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Git" **alt="Git" width="40" height="40"/> -->
   
 </div>
 
 ### :fire: My Stats :
 <p><img src="https://github-readme-stats.vercel.app/api?username=kaleab-kali&amp;show_icons=true&theme=github_dark" alt="GitHub Stats"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleab-kali&layout=compact&card_width=275&theme=github_dark&langs_count=20" alt="kaleabs Top Languages" align="right" width="295"></p> 
-<!-- <img src="https://streak-stats.demolab.com/?user=kaleab-kali&theme=highcontrast" alt="streak stat"> -->
+<img src="https://streak-stats.demolab.com/?user=kaleab-kali&theme=highcontrast" alt="streak stat">
 
 
 
