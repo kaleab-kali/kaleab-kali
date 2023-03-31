@@ -6,9 +6,8 @@
 </p>
 ### Hi there 👋
 <ul>
-  <li>🔭 I’m currently working on healthcare APP </li>
+  <li>🔭 I’m currently working on healthcare APP and Fintech app</li>
   <li>🌱 I’m a software Engineering student</li>
-  <li>👯 I’m looking to collaborate on open source projects</li>
   <li>⚡ Fun fact: work hard</li>
   
 </ul>
