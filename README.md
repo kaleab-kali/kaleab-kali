@@ -6,7 +6,7 @@
 </p>
 ### Hi there 👋
 <ul>
-  <li>🔭 I’m currently working on amazing projects in finTech and social media apps</li>
+  <li>🔭 I’m currently working on Enterprise grade ERP systems and finTech app</li>
   <li>🌱 I’m a software Engineer</li>
   <li>⚡ Fun fact: work hard</li>
   
